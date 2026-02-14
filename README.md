@@ -1,4 +1,4 @@
-<h1 align="center">Erfan [Last Name]</h1>
+<h1 align="center">Erfan Radmani</h1>
 <h3 align="center">Mechanical Engineering | Energy Systems | CFD Research</h3>
 
 ---
